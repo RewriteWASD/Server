@@ -1,0 +1,4 @@
+/home/yangfu/Downloads/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/yangfu/Downloads/clion/bin/ninja/linux/ninja -G Ninja /home/yangfu/linuxex/Webserver
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/yangfu/linuxex/Webserver/cmake-build-debug
